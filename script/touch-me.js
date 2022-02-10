@@ -9,6 +9,7 @@ console.log(buttons);
 let game = () => {
   buttons[0].style.display = "none";
   buttons[1].style.display = "none";
+  //list of randome color to display
   let myColors = [
     "#D82E2F",
     "#FF6263",
